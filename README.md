@@ -1,1 +1,1 @@
-# FluentPython
+# Study FluentPython
